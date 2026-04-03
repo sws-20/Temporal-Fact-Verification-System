@@ -4,7 +4,8 @@ An NLP-based system that extracts timeline information from Wikipedia biographie
 This project focuses on verifying temporal facts from Wikipedia biography pages. The system uses Natural Language Processing (NLP) to extract dates, ages, and event-related information from unstructured text and then checks whether the timeline of events is logically consistent.
 The goal of this project is to go beyond traditional fact-checking by verifying whether information is chronologically possible and consistent, not just whether it exists.
 
-###**Objectives**
+**Objectives**
+
 Extract temporal information (dates, ages, years, events) from biography text
 Build a timeline of events for an individual
 Apply rule-based logic to verify timeline consistency
